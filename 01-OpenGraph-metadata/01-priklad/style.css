@@ -1,0 +1,17 @@
+html {
+  box-sizing: border-box;
+}
+
+*, ::before, ::after {
+  box-sizing: inherit;
+}
+
+body {
+  font: 18px/1.5 sans-serif;
+  max-width: 40rem;
+  margin: 50px auto;
+}
+
+img {
+  width: 100%;
+}
